@@ -19,6 +19,47 @@
         }
     },
     "connection_lines": {},
+    "decals": {
+        "91a6846b-6920-4c92-b84d-657d8a0e31a7": {
+            "decal": "194e0fa1-befa-4835-99bb-5a17cb829a07",
+            "flip": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    5700000,
+                    14000000
+                ]
+            },
+            "scale": 1.0
+        },
+        "b562b78f-3be3-4b5d-8b2e-df97dccd09fe": {
+            "decal": "2cef7b60-e221-46bc-9c70-099b6f061662",
+            "flip": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    58500000,
+                    12600000
+                ]
+            },
+            "scale": 1.0
+        },
+        "c46c1927-8d34-4d68-857f-606f66e1ac7d": {
+            "decal": "38ca3c1f-10dd-4966-baf1-235761787ce6",
+            "flip": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    58500000,
+                    17300000
+                ]
+            },
+            "scale": 1.0
+        }
+    },
     "dimensions": {
         "c83a6871-02a5-4c02-a3af-fc0fafd346e2": {
             "label_distance": 7000000,
@@ -108,7 +149,7 @@
                 "layer": 30
             }
         },
-        "output_directory": "/home/yann/_ygn/effect-sexy-rodent/pcb/gerber",
+        "output_directory": "/home/yann/_ygn/effect-bass-overdrive/pcb/gerber",
         "prefix": "sexy-rodent",
         "zip_output": true
     },
@@ -4823,6 +4864,23 @@
             },
             "size": 1000000,
             "text": "$RD",
+            "width": 150000
+        },
+        "fdeb3f36-a07f-4e90-9ac0-b30f323a9c21": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    57000000,
+                    9300000
+                ]
+            },
+            "size": 1000000,
+            "text": "v1.0",
             "width": 150000
         }
     },
