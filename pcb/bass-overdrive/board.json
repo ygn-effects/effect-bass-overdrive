@@ -150,7 +150,7 @@
             }
         },
         "output_directory": "/home/yann/_ygn/effect-bass-overdrive/pcb/gerber",
-        "prefix": "sexy-rodent",
+        "prefix": "bass-overdrive",
         "zip_output": true
     },
     "grid_settings": {
